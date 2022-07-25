@@ -2,11 +2,10 @@ package hello.springmvc.basic.request;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hello.springmvc.basic.HelloData;
-import hello.springmvc.basic.NestedHello;
+import hello.springmvc.basic.testobject.HelloData;
+import hello.springmvc.basic.testobject.NestedHello;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpEntity;
-import org.springframework.stereotype.Controller;
 import org.springframework.util.StreamUtils;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
