@@ -1,7 +1,7 @@
-package hello.springmvc.basic.response;
+package hello.springmvc.basic.mvcone.response;
 
 
-import hello.springmvc.basic.testobject.HelloData;
+import hello.springmvc.basic.mvcone.testobject.HelloData;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

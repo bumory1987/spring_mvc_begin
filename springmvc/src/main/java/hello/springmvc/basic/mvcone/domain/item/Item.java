@@ -1,4 +1,4 @@
-package hello.springmvc.basic.domain.item;
+package hello.springmvc.basic.mvcone.domain.item;
 
 
 import lombok.Data;

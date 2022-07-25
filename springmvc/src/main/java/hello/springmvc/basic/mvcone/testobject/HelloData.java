@@ -1,4 +1,4 @@
-package hello.springmvc.basic.testobject;
+package hello.springmvc.basic.mvcone.testobject;
 
 
 import lombok.Data;

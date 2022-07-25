@@ -1,4 +1,4 @@
-package hello.springmvc.basic.response;
+package hello.springmvc.basic.mvcone.response;
 
 
 import org.springframework.stereotype.Controller;

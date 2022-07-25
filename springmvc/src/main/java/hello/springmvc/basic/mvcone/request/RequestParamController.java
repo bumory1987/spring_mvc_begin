@@ -1,8 +1,8 @@
-package hello.springmvc.basic.request;
+package hello.springmvc.basic.mvcone.request;
 
 
-import hello.springmvc.basic.testobject.HelloData;
-import hello.springmvc.basic.testobject.NestedHello;
+import hello.springmvc.basic.mvcone.testobject.HelloData;
+import hello.springmvc.basic.mvcone.testobject.NestedHello;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.bind.annotation.ModelAttribute;

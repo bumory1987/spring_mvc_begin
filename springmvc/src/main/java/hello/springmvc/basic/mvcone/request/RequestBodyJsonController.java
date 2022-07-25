@@ -1,9 +1,9 @@
-package hello.springmvc.basic.request;
+package hello.springmvc.basic.mvcone.request;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hello.springmvc.basic.testobject.HelloData;
-import hello.springmvc.basic.testobject.NestedHello;
+import hello.springmvc.basic.mvcone.testobject.HelloData;
+import hello.springmvc.basic.mvcone.testobject.NestedHello;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpEntity;
 import org.springframework.util.StreamUtils;

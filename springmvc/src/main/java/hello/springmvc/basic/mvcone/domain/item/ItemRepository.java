@@ -1,4 +1,4 @@
-package hello.springmvc.basic.domain.item;
+package hello.springmvc.basic.mvcone.domain.item;
 
 import org.springframework.stereotype.Repository;
 
@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 
 @Repository
 public class ItemRepository {

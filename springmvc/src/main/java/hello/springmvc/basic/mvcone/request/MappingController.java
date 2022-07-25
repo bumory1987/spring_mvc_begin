@@ -1,4 +1,4 @@
-package hello.springmvc.basic.request;
+package hello.springmvc.basic.mvcone.request;
 
 
 import lombok.extern.slf4j.Slf4j;
